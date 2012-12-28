@@ -8,8 +8,9 @@
     {"name":"YouTube","logo":"images/YouTube_logo_stacked_white.png","width":64,"height":61,"url":"http://www.youtube.com/user/StogieReviewCharlie"},
     {"name":"StogieReview","logo":"images/CircleIcon.png","width":72,"height":72,"url":"http://www.stogiereview.com/author/cgreenbacker/"},
     {"name":"UDel","logo":"images/UDcircleCweb.jpg","width":60,"height":60,"url":"http://www.cis.udel.edu/~charlieg"},
-    {"name":"Berico Technologies","logo":"images/Berico_logo_diamonds.png","width":50,"height":60,"url":"http://clavin.bericotechnologies.com"},
-    {"name":"GitHub","logo":"images/octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg?tab=activity"}
+    {"name":"Berico Technologies","logo":"images/Berico_logo_diamonds.png","width":50,"height":60,"url":"http://www.bericotechnologies.com"},
+    {"name":"GitHub","logo":"images/octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg?tab=activity"},
+    {"name":"CLAVIN","logo":"images/clavin_mustache.png","width":60,"height":60,"url":"http://clavin.bericotechnologies.com"}
   ],
   "links":[
     {"source":1,"target":0},
@@ -20,6 +21,7 @@
     {"source":6,"target":0},
     {"source":7,"target":0},
     {"source":8,"target":0},
-    {"source":9,"target":0}
+    {"source":9,"target":0},
+    {"source":10,"target":8}
   ]
 }
