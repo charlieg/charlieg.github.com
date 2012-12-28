@@ -24,8 +24,8 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
 
 var force = d3.layout.force()
-    .charge(-999)
-    .linkDistance(height / 4)
+    .charge(-1299)
+    .linkDistance(function(d) { return height / (2 + (2 * d.level)); })
     .size([width, height]);
 
 d3.json("network.json", function(json) {
@@ -50,7 +50,7 @@ d3.json("network.json", function(json) {
 //      .style("fill", function(d) { return d.fill; });
   
   node.append("image")
-      .attr("xlink:href", function(d) { return d.logo; })
+      .attr("xlink:href", function(d) { return "images/" + d.logo; })
       .attr("x", function(d) { return 0 - (d.width / 2); })
       .attr("y", function(d) { return 0 - (d.height / 2); })
       .attr("width", function(d) { return d.width; })
