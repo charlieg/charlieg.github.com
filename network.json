@@ -8,10 +8,9 @@
     {"name":"YouTube","logo":"YouTube_logo_stacked_white.png","width":64,"height":61,"url":"http://www.youtube.com/user/StogieReviewCharlie"},
     {"name":"StogieReview","logo":"CircleIcon.png","width":72,"height":72,"url":"http://www.stogiereview.com/author/cgreenbacker/"},
     {"name":"UDel","logo":"UDcircleCweb.jpg","width":60,"height":60,"url":"http://www.cis.udel.edu/~charlieg"},
-    {"name":"Berico Technologies","logo":"Berico_logo_diamonds.png","width":50,"height":60,"url":"http://www.bericotechnologies.com"},
+    {"name":"Altamira","logo":"altamira.png","width":60,"height":60,"url":"https://www.altamiracorp.com/"},
     {"name":"GitHub","logo":"octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg?tab=activity"},
-    {"name":"CLAVIN","logo":"clavin_mustache.png","width":60,"height":60,"url":"http://clavin.bericotechnologies.com"},
-    {"name":"RedOwl Analytics","logo":"RedOwl.png","width":60,"height":60,"url":"http://redowlanalytics.com"}
+    {"name":"CLAVIN","logo":"clavin_mustache.png","width":60,"height":60,"url":"http://clavin.bericotechnologies.com"}
   ],
   "links":[
     {"source":1,"target":0,"level":1},
