@@ -2,26 +2,30 @@
   "nodes":[
     {"name":"Me","logo":"me.jpg","width":73,"height":73,"url":"#"},
     {"name":"Facebook","logo":"f_logo.png","width":48,"height":48,"url":"http://www.facebook.com/charlie.greenbacker"},
-    {"name":"Twitter","logo":"twitter-bird-light-bgs.png","width":90,"height":90,"url":"http://twitter.com/greenbacker"},
+    {"name":"Twitter","logo":"twitter-bird-light-bgs.png","width":90,"height":90,"url":"https://twitter.com/greenbacker"},
     {"name":"LinkedIn","logo":"LinkedIn_Logo60px.png","width":60,"height":60,"url":"http://www.linkedin.com/in/greenbacker"},
     {"name":"Google+","logo":"gplus-64.png","width":48,"height":48,"url":"http://plus.google.com/u/0/109929569852048183511"},
-    {"name":"YouTube","logo":"YouTube_logo_stacked_white.png","width":64,"height":61,"url":"http://www.youtube.com/user/StogieReviewCharlie"},
-    {"name":"StogieReview","logo":"CircleIcon.png","width":72,"height":72,"url":"http://www.stogiereview.com/author/cgreenbacker/"},
     {"name":"UDel","logo":"UDcircleCweb.jpg","width":60,"height":60,"url":"http://www.cis.udel.edu/~charlieg"},
     {"name":"Altamira","logo":"altamira.png","width":60,"height":60,"url":"https://www.altamiracorp.com/"},
-    {"name":"GitHub","logo":"octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg?tab=activity"},
-    {"name":"CLAVIN","logo":"clavin_mustache.png","width":60,"height":60,"url":"http://clavin.bericotechnologies.com"}
+    {"name":"Lumify","logo":"Lumify-graph-icon","width":60,"height":60,"url":"https://lumify.io/"},    
+    {"name":"GitHub","logo":"octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg"},
+    {"name":"CLAVIN","logo":"clavin_mustache.png","width":60,"height":60,"url":"http://clavin.io/"},
+    {"name":"Lanyrd","logo":"Lanyrd_Icon_512.png","width":48,"height":48,"url":"http://lanyrd.com/profile/greenbacker/"},
+    {"name":"Meetup","logo":"meetup_logo_1.png","width":64,"height":47,"url":"http://www.meetup.com/members/54650742/"},
+    {"name":"DC NLP","logo":"dclogo.jpg","width":72,"height":48,"url":"http://www.meetup.com/DC-NLP/"}
   ],
   "links":[
     {"source":1,"target":0,"level":1},
     {"source":2,"target":0,"level":1},
     {"source":3,"target":0,"level":1},
     {"source":4,"target":0,"level":1},
-    {"source":5,"target":6,"level":2},
+    {"source":5,"target":0,"level":1},
     {"source":6,"target":0,"level":1},
-    {"source":7,"target":0,"level":1},
+    {"source":7,"target":6,"level":2},
     {"source":8,"target":0,"level":1},
-    {"source":9,"target":0,"level":1},
-    {"source":10,"target":9,"level":2}
+    {"source":9,"target":8,"level":2},
+    {"source":10,"target":0,"level":1},
+    {"source":11,"target":0,"level":1},
+    {"source":12,"target":11,"level":2}
   ]
 }
