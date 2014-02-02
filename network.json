@@ -22,7 +22,6 @@
     {"source":7,"target":0,"level":1},
     {"source":8,"target":0,"level":1},
     {"source":9,"target":0,"level":1},
-    {"source":10,"target":9,"level":2},
-    {"source":11,"target":8,"level":2}
+    {"source":10,"target":9,"level":2}
   ]
 }
