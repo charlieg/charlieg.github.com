@@ -1,6 +1,6 @@
 {
   "nodes":[
-    {"name":"Me","logo":"me.jpg","width":80,"height":80,"url":"#"},
+    {"name":"Me","logo":"me.jpg","width":73,"height":73,"url":"#"},
     {"name":"Facebook","logo":"f_logo.png","width":48,"height":48,"url":"http://www.facebook.com/charlie.greenbacker"},
     {"name":"Twitter","logo":"twitter-bird-light-bgs.png","width":90,"height":90,"url":"http://twitter.com/greenbacker"},
     {"name":"LinkedIn","logo":"LinkedIn_Logo60px.png","width":60,"height":60,"url":"http://www.linkedin.com/in/greenbacker"},
