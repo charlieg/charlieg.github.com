@@ -21,11 +21,11 @@
     {"source":4,"target":0,"level":1},
     {"source":5,"target":0,"level":1},
     {"source":6,"target":0,"level":1},
-    {"source":7,"target":8,"level":2},
+    {"source":7,"target":6,"level":2},
     {"source":8,"target":0,"level":1},
     {"source":9,"target":0,"level":1},
-    {"source":10,"target":11,"level":2},
-    {"source":11,"target":10,"level":2},
+    {"source":10,"target":9,"level":2},
+    {"source":11,"target":8,"level":2},
     {"source":12,"target":0,"level":1}
   ]
 }
