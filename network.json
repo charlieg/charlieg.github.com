@@ -6,6 +6,7 @@
     {"name":"LinkedIn","logo":"LinkedIn_Logo60px.png","width":60,"height":60,"url":"http://www.linkedin.com/in/greenbacker"},
     {"name":"GitHub","logo":"octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg"},
     {"name":"Meetup","logo":"meetup_logo_1.png","width":64,"height":47,"url":"http://www.meetup.com/members/54650742/"},
+    {"name":"Geoparser.io","logo":"geoparser-logo-white-on-turquoise-400x400.png","width":90,"height":90,"url":"https://geoparser.io/"},
     {"name":"DC NLP","logo":"dclogo.jpg","width":72,"height":48,"url":"http://www.meetup.com/DC-NLP/"}
   ],
   "links":[
@@ -14,6 +15,7 @@
     {"source":3,"target":0,"level":1},
     {"source":4,"target":0,"level":1},
     {"source":5,"target":0,"level":1},
-    {"source":6,"target":5,"level":2}
+    {"source":6,"target":0,"level":1},
+    {"source":7,"target":5,"level":2}
   ]
 }
