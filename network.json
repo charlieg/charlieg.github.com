@@ -4,15 +4,9 @@
     {"name":"Facebook","logo":"f_logo.png","width":48,"height":48,"url":"http://www.facebook.com/charlie.greenbacker"},
     {"name":"Twitter","logo":"twitter-bird-light-bgs.png","width":90,"height":90,"url":"https://twitter.com/greenbacker"},
     {"name":"LinkedIn","logo":"LinkedIn_Logo60px.png","width":60,"height":60,"url":"http://www.linkedin.com/in/greenbacker"},
-    {"name":"Google+","logo":"gplus-64.png","width":48,"height":48,"url":"http://plus.google.com/u/0/109929569852048183511"},
-    {"name":"UDel","logo":"UDcircleCweb.jpg","width":60,"height":60,"url":"http://www.cis.udel.edu/~charlieg"},
     {"name":"GitHub","logo":"octocat_fluid.png","width":60,"height":60,"url":"http://github.com/charlieg"},
-    {"name":"CLAVIN","logo":"clavin_mustache.png","width":60,"height":60,"url":"http://clavin.io/"},
-    {"name":"Lanyrd","logo":"Lanyrd_Icon_512.png","width":48,"height":48,"url":"http://lanyrd.com/profile/greenbacker/"},
     {"name":"Meetup","logo":"meetup_logo_1.png","width":64,"height":47,"url":"http://www.meetup.com/members/54650742/"},
-    {"name":"DC NLP","logo":"dclogo.jpg","width":72,"height":48,"url":"http://www.meetup.com/DC-NLP/"},
-    {"name":"SlideShare","logo":"Slideshare-icon.png","width":60,"height":60,"url":"http://www.slideshare.net/CharlieGreenbacker"},
-    {"name":"CoFoundersLab","logo":"CoFoundersLab_180x120.jpg","width":75,"height":50,"url":"http://www.cofounderslab.com/charlie-greenbacker"}
+    {"name":"DC NLP","logo":"dclogo.jpg","width":72,"height":48,"url":"http://www.meetup.com/DC-NLP/"}
   ],
   "links":[
     {"source":1,"target":0,"level":1},
@@ -20,12 +14,6 @@
     {"source":3,"target":0,"level":1},
     {"source":4,"target":0,"level":1},
     {"source":5,"target":0,"level":1},
-    {"source":6,"target":0,"level":1},
-    {"source":7,"target":6,"level":2},
-    {"source":8,"target":0,"level":1},
-    {"source":9,"target":0,"level":1},
-    {"source":10,"target":9,"level":2},
-    {"source":11,"target":8,"level":2},
-    {"source":12,"target":0,"level":1}
+    {"source":6,"target":5,"level":2}
   ]
 }
